@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "pg": "registry:npm/pg#6.0.2+20161130221557"
+  }
+}
